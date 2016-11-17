@@ -1,6 +1,6 @@
-Chemistry Functions
+#Chemistry Functions
 
-#MolecularWeight("formula")
+MolecularWeight("formula")
   Returns molecular wight of given molecule (formula as string)
   
 MolWeightMix("component names", mole fractions)
