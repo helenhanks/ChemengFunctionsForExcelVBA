@@ -10,7 +10,7 @@ To use on a Windows 7 System:
 * Tick the check box next to Chemengfunctions, click "OK"
 
 To edit functions once installed in Excel (Instructions Office 2016):
-* Make sure "Developer" tag is visible in top ribbon
+* Make sure "Developer" tab is visible in top ribbon
 * Click "Visual Basic" button
 * In top left column of new window, find and expand "VBAProject(ChemengFunctions.xlam)"
 * Expand "Modules" folder
