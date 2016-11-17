@@ -1,0 +1,22 @@
+<H1>Chemistry Functions</H1>
+
+MolecularWeight("formula")
+  Returns molecular wight of given molecule (formula as string)
+  
+MolWeightMix("component names", mole fractions)
+  Returns average molecular weight of a mixture for given cell ranges containing component names as strings and mole fractions as double.
+
+-----
+<H1>Energy Functions</H1>
+
+LHV(HHV, H mass fraction)
+  Returns lower heating value for given higher heating value and mass fraction of H in fuel sample.
+
+HHV(LHV, H mass fraction)
+  Returns higher heating value for given higher heating value and mass fraction of H in fuel sample.
+  
+-----
+<H1>Geometry Functions</H1>
+
+CircleArea(diameter)
+  Returns circle area for a given diameter
