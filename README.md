@@ -12,7 +12,7 @@ To use on a Windows 7 System:
 To edit functions once installed in Excel (Instructions Office 2016):
 * Make sure "Developer" tag is visible in top ribbon
 * Click "Visual Basic" button
-* In top left column of new window, find "VBAProject(ChemengFunctions.xlam)"
+* In top left column of new window, find and expand "VBAProject(ChemengFunctions.xlam)"
 * Expand "Modules" folder
 * Each module contains Visual Basic code for a set of functions
 * After editing code, click save button and close Visual Basic Window
