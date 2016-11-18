@@ -1,18 +1,18 @@
 #Chemistry Functions
 
 ###MolecularWeight("formula")
-  Returns molecular wight of given molecule (formula as string)
+  Returns molecular wight (kg/kmol) of given molecule (formula as string)
   
 ###MolWeightMix("component names", mole fractions)
-Returns average molecular weight of a mixture for given cell ranges containing component names as strings and mole fractions as double.
+Returns average molecular weight (kg/kmol) of a mixture for given cell ranges containing component names as strings and mole fractions as double.
 
 #Energy Functions
 
 ###LHV(HHV, H mass fraction)
-Returns lower heating value for given higher heating value and mass fraction of H in fuel sample.
+Returns lower heating value for given higher heating value (kJ/kg) and mass fraction of H in fuel sample (kg H/kg fuel).
 
 ###HHV(LHV, H mass fraction)
-Returns higher heating value for given higher heating value and mass fraction of H in fuel sample.
+Returns higher heating value for given lower heating value (kJ/kg) and mass fraction of H in fuel sample (kg H/kg fuel).
   
 #Geometry Functions
 
