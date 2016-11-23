@@ -18,5 +18,3 @@ Returns higher heating value for given lower heating value (kJ/kg) and mass frac
 
 ####CircleArea(diameter)
 Returns circle area for a given diameter
-
-'####test comment
